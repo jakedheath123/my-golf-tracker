@@ -1,0 +1,1 @@
+export const GET_GOLF_COURSES = "GET_GOLF_COURSES";
